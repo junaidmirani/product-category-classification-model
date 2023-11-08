@@ -1,7 +1,4 @@
 # product-category-classification-model
-Certainly, here's a professional report describing your model for predicting the category of a product based on its description:
-
----
 
 # Product Category Prediction Model Report
 
