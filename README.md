@@ -2,9 +2,7 @@
 
 
 
-## Introduction
-
-This report presents a predictive model designed to categorize products based on their textual descriptions. The model was developed to assist in automated product categorization, streamlining inventory management, and enhancing user experience in online retail and e-commerce platforms. The model leverages natural language processing techniques and machine learning algorithms to make accurate category predictions.
+A prediction model designed to categorize products based on their textual descriptions. The model was developed to assist in automated product categorization, streamlining inventory management, and enhancing user experience in online retail and e-commerce platforms. The model leverages natural language processing techniques and machine learning algorithms to make accurate category predictions.
 
 ## Model Overview
 
