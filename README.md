@@ -1,6 +1,6 @@
 # product-category-classification-model
 
-# Product Category Prediction Model Report
+
 
 ## Introduction
 
